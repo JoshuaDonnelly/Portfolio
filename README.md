@@ -17,3 +17,10 @@
 | Backend | Spring Boot     |
 | Database    | PostgreSQL    |
 | Vector Search    | pgvector    |
+
+# Setup for desktop
+git clone <repo>
+cd portfolio/frontend
+nvm use
+npm ci
+npm run dev

@@ -25,3 +25,4 @@ cd portfolio/frontend
 nvm use
 npm ci
 npm run dev
+.
